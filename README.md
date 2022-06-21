@@ -2,7 +2,7 @@
 - 👀 I’m just your typical college kid trying to make money bug bounty hunting
 - 🌱 I’m currently learning Web Enumeration atm but really everything there is to the internet
 - 💞️ I’m looking to collaborate on anything 
-- 📫 How to reach me if this has a pm hmu if not Discord @Toat Dash
+- 📫 How to reach me I mean if this has a pm hmu if not Discord @Toat Dash
 - Also I am very lazy... 
 
 <!---
