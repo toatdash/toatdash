@@ -2,7 +2,7 @@
 - 👀 I’m just your typical college kid trying to make money bug bounty hunting
 - 🌱 I’m currently learning SQLmap atm but really everything there is to the internet
 - 💞️ I’m looking to collaborate on anything 
-- 📫 How to reach me I mean if this has a pm hmu if not Discord @Toat Dash
+- 📫 How to reach me if you have an email than emailing me is fine i.e. if not Discord @Toat Dash I'm always floating around on there.
 - Also I am very lazy... 
 
 <!---
