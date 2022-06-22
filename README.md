@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning SQLmap atm but really everything there is to the internet
 - 💞️ I’m looking to collaborate on anything 
 - 📫 How to reach me if you have an email than emailing me is fine i.e. if not Discord @Toat Dash I'm always floating around on there.
+- Head Huncho of ToAt
 - Also I am very lazy... 
+- 
 
 <!---
 toatdash/toatdash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
